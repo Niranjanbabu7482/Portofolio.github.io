@@ -228,12 +228,13 @@ span{
 }
 
 .education-box {
-    flex: 1 1 45%;
+
     background: rgb(31, 36, 45);
     text-align: center;
-    padding: 1.5rem 1rem 1.5rem;
-    border-radius: 3rem;
+    padding: 1.5rem 1rem 1.5rem;  
     border: .2rem solid rgb(31, 36, 45);
+    flex: 2  2  45rem;
+    border-radius: 3rem;
     transition: .5s ease;
 }
 
