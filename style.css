@@ -225,10 +225,11 @@ span{
     align-items: flex-start;
     flex-wrap: wrap;
     gap: 2rem;
+    
 }
 
 .education-box {
-background: rgb(31, 36, 45);
+    background: rgb(31, 36, 45);
     text-align: center;
     padding: 1.5rem 1rem 1.5rem;  
     border: .2rem solid rgb(31, 36, 45);
